@@ -287,3 +287,22 @@ http://ios-byjj.onrender.com/Tivizon.php?ID=tv4
 http://ios-byjj.onrender.com/Tivizon.php?ID=kralpoptv
 #EXTINF:-1 group-title="Tivizon" tvg-logo="https://yt3.ggpht.com/43xh3uEvLl7kAKca-zFauATzT3spixqjb9v-cYBVxBLzbcbVj42iV3Msbpd5zXwN_w7jXdnzFq8",aSPOR
 http://ios-byjj.onrender.com/Tivizon.php?ID=aspor
+
+#EXTINF:-1 group-title="ATVGroup" tvg-logo="http://yt3.googleusercontent.com/rGaatci_rjFWnwKiycOnIolZYkXz8SeTNVMz4G_45i_flLh_toDIBKT6ctxlDH8b7vqW4Cc_-XY",ATV
+http://ios-byjj.onrender.com/ATVGroup.php?ID=atv&Token=MarkClark
+#EXTINF:-1 group-title="ATVGroup" tvg-logo="http://yt3.googleusercontent.com/KAQlS_5itOk34t-_i9jQH_06bDTDI4ALTJZW37at1bYIOFJRMx23XYfBldJ7ecNq-XuWCfKi5g",ATV Avrupa
+http://ios-byjj.onrender.com/ATVGroup.php?ID=atvavrupa&Token=MarkClark
+#EXTINF:-1 group-title="ATVGroup" tvg-logo="http://yt3.googleusercontent.com/RZG-XV8AGd-_HWnGIVJtSNurIjUJxtZrb06jwRrrWt1BTTRChGOdz75ATZqaPlS0zQitJdI8Rg",a2
+http://ios-byjj.onrender.com/ATVGroup.php?ID=a2&Token=MarkClark
+#EXTINF:-1 group-title="ATVGroup" tvg-logo="http://yt3.googleusercontent.com/UI3UKWRTnxXbR3YAnbDIn_sAqiXsno_UE3iOPDAOQw5tdTUS75Q3nGx1fiv8-0o9b9xgdWr8o0o",Minika COCUK
+http://ios-byjj.onrender.com/ATVGroup.php?ID=minikacocuk&Token=MarkClark
+#EXTINF:-1 group-title="ATVGroup" tvg-logo="http://yt3.googleusercontent.com/6Ci6NdBP5dl_pY3TLFxWa6NdSm9IsG182yNUE5qmOKFiQLPscSkRyerA4AWgI2h9IFpFXN82uA",Minika GO
+http://ios-byjj.onrender.com/ATVGroup.php?ID=minikago&Token=MarkClark
+#EXTINF:-1 group-title="ATVGroup" tvg-logo="http://yt3.ggpht.com/3a7gv0YZ9X6kWk_kfffCq3Gdws5g54JntzV1fSHQomWFDb-1mUuJTiCTX4HxUG9SMjqYyBN4guE",AHABER
+http://ios-byjj.onrender.com/ATVGroup.php?ID=ahaber&Token=MarkClark
+#EXTINF:-1 group-title="ATVGroup" tvg-logo="http://yt3.ggpht.com/XJtyMUH7ikXxeg2nrhjVb0k9LbpdqimTV9QawOxlQipdDFYe0cy6kdFZeFqzpeqPCyOkJCMM_w",APARA
+http://ios-byjj.onrender.com/ATVGroup.php?ID=apara&Token=MarkClark
+#EXTINF:-1 group-title="ATVGroup" tvg-logo="http://yt3.ggpht.com/6NEH0h3dFrnG36dk8lHHfocRKiz2GqiM0pzd-UeIvj_B-25aGYsB1sUUZodoD9JCgVpRt-hDGUM",ANEWS
+http://ios-byjj.onrender.com/ATVGroup.php?ID=anews&Token=MarkClark
+#EXTINF:-1 group-title="ATVGroup" tvg-logo="http://yt3.ggpht.com/43xh3uEvLl7kAKca-zFauATzT3spixqjb9v-cYBVxBLzbcbVj42iV3Msbpd5zXwN_w7jXdnzFq8",ASPOR
+http://ios-byjj.onrender.com/ATVGroup.php?ID=aspor&Token=MarkClark
